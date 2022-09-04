@@ -1,6 +1,6 @@
 # OLED-RPI
 A try to make oled display as usable as possible.
-##Installation
+## Installation
 Download the project.
 ~~~bash
 sudo apt install git -y
