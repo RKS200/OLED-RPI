@@ -19,3 +19,6 @@ Make rc.local executable.
 sudo chmod +x /etc/rc.local
 ~~~
 Now reboot the system and Hope the display will work😂.
+---
+![main](https://github.com/RKS200/OLED-RPI/blob/main/1.jpeg)
+![startup](https://github.com/RKS200/OLED-RPI/blob/main/2.jpeg)
